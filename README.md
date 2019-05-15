@@ -1,6 +1,7 @@
 # the-way-to-home-Game
 --Game Installation Method--
 1.unzip Way To home Folder
+2.Unzip images.zip
 2.double click the index.html and play it!
 
 -------------------------------------------------
