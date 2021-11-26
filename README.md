@@ -6,9 +6,9 @@
 
 Use Arrow keys to move the character
 
-! [](prev1.png)
+![](prev1.png)
 
-! [](prev1.gif)
+![](prev1.gif)
 
 
 --Game Installation Method--
